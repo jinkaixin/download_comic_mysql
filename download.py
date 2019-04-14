@@ -4,6 +4,7 @@ import re
 import time
 import random
 import pymysql
+
 import gui
 import functions
 import cartoonmad
